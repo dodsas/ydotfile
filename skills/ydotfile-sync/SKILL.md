@@ -1,6 +1,6 @@
 ---
 name: ydotfile-sync
-description: 사용자가 자기 Claude 자산(스킬·커맨드·훅)을 dotfile 레포(특히 ydotfile)로 업로드·동기화·백업하거나, 반대로 레포에서 자산을 제거·정리하려 할 때 사용. "이거 dotfile에 올려줘", "ydotfile에 push", "백업해줘", "dotfile에서 빼줘", "이거 삭제해줘", "ydotfile 정리" 같은 자연어 요청을 받았을 때 슬래시 커맨드 /ydotfile-push 또는 /ydotfile-rm 로 안내한다.
+description: 사용자가 자기 Claude 자산(스킬·커맨드·훅)을 dotfile/닷파일 레포(특히 ydotfile)로 업로드·동기화·백업하거나, 반대로 레포에서 자산을 제거·정리하려 할 때 사용. "이거 dotfile/닷파일에 올려줘", "ydotfile에 push", "백업해줘", "닷파일에서 빼줘", "dotfile에서 삭제해줘", "ydotfile 정리" 같은 자연어 요청을 받았을 때 슬래시 커맨드 /ydotfile-push 또는 /ydotfile-rm 로 안내한다. "dotfile" 과 "닷파일" 은 같은 의미로 취급.
 ---
 
 # ydotfile-sync (redirect)
